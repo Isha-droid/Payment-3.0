@@ -30,4 +30,4 @@ Make sure you have **Node.js** installed. You can download it from [here](https:
     ```
  
 ### 👩‍💻 Author
-This repository is maintained by [here](https://github.com/Isha-droid/).
+This repository is maintained by [Isha Mahajan](https://github.com/Isha-droid/).
