@@ -1,13 +1,30 @@
-# Sample Hardhat Project
+# 💸 Payment App 3.0
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Welcome to **Payment App 3.0**! This project demonstrates a basic Hardhat use case for a payment application. It comes with a sample payment contract, tests for that contract, and deployment scripts.
 
-Try running some of the following tasks:
+## 🚀 Getting Started
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+### Prerequisites
+
+Make sure you have **Node.js** installed. You can download it from [here](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+
+    ```shell
+    git clone https://github.com/your-username/payment-app.git
+    cd payment-app
+    ```
+
+2. Install Hardhat and the project's dependencies:
+
+    ```shell
+    npm install --save-dev hardhat
+    ```
+
+3. Install additional dependencies:
+
+    ```shell
+    npm install dotenv @nomiclabs/hardhat-waffle ethereum-waffle chai ethers
+    ```
