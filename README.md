@@ -28,3 +28,6 @@ Make sure you have **Node.js** installed. You can download it from [here](https:
     ```shell
     npm install dotenv @nomiclabs/hardhat-waffle ethereum-waffle chai ethers
     ```
+ 
+### 👩‍💻 Author
+This repository is maintained by [here](https://github.com/Isha-droid/).
